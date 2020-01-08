@@ -26,6 +26,8 @@ cinst borderlessgaming
 cinst epicgameslauncher
 cinst uplay
 cinst 7zip
+choco install msiafterburner
+choco install hwinfo
 
 Enable-MicrosoftUpdate
 Install-WindowsUpdate -acceptEula

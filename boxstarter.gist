@@ -1,4 +1,6 @@
-Set-WindowsExplorerOptions -EnableShowFileExtensions
+Set-WindowsExplorerOptions -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+
+Disable-UAC
 
 cinst steam
 cinst GoogleChrome
@@ -7,3 +9,7 @@ cinst logitechgaming
 cinst borderlessgaming
 cinst epicgameslauncher
 cinst uplay
+cinst 7zip
+
+Enable-MicrosoftUpdate
+Install-WindowsUpdate -acceptEula

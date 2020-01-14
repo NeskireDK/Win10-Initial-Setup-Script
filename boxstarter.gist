@@ -21,7 +21,6 @@ Disable-UAC
 cinst steam
 cinst GoogleChrome
 cinst Discord
-cinst logitechgaming
 cinst borderlessgaming
 cinst epicgameslauncher
 cinst uplay

@@ -26,6 +26,7 @@ cinst epicgameslauncher
 cinst uplay
 cinst 7zip
 cinst qbittorrent
+cinst lockhunter
 
 choco install msiafterburner
 choco install hwinfo
